@@ -1,5 +1,14 @@
 {
+  "name": "ethrpc",
+  "version": "0.0.1",
+  "description": "Joys nodejs examples",
+  "author": "Joys Team",
+  "license": "MIT",
   "devDependencies": {
-    "ethereumjs-wallet": "*"
+    "web3": "*",
+    "ethereumjs-tx": "*",
+    "ethrpc": "*",
+    "ethereumjs-wallet": "*",
+    "ethereumjs-util": "*"
   }
 }
